@@ -1,0 +1,28 @@
+System:    Host: lisa-pc Kernel: 4.11.12-1-MANJARO x86_64 (64 bit)
+           Desktop: N/A Distro: Manjaro Linux
+Machine:   Device: laptop System: Notebook product: N130BU
+           Mobo: Notebook model: N130BU
+           UEFI [Legacy]: American Megatrends v: 1.05.06C-TEST date: 07/14/2017
+Battery    BAT0: charge: 12.2 Wh 38.3% condition: 31.7/31.0 Wh (102%)
+CPU:       Dual core Intel Core i7-7500U (-HT-MCP-) cache: 4096 KB 
+           clock speeds: max: 3500 MHz 1: 799 MHz 2: 800 MHz 3: 799 MHz
+           4: 799 MHz
+Graphics:  Card: Intel Device 5916
+           Display Server: N/A driver: modesetting tty size: 80x24
+Audio:     Card Intel Device 9d71 driver: snd_hda_intel
+           Sound: Advanced Linux Sound Architecture v: k4.11.12-1-MANJARO
+Network:   Card-1: Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+           driver: r8169
+           IF: enp58s0f1 state: down mac: 80:fa:5b:46:09:4b
+           Card-2: Intel Wireless 8265 / 8275 driver: iwlwifi
+           IF: wlp59s0 state: up mac: f8:59:71:0c:d0:05
+Drives:    HDD Total Size: 750.2GB (2.9% used)
+           ID-1: /dev/sda model: ST500LM021 size: 500.1GB
+           ID-2: /dev/sdb model: WDC_WDS250G1B0B size: 250.1GB
+Partition: ID-1: / size: 91G used: 3.6G (5%) fs: ext4 dev: /dev/sdb1
+           ID-2: /home size: 122G used: 120M (1%) fs: ext4 dev: /dev/sdb2
+           ID-3: swap-1 size: 18.67GB used: 0.00GB (0%) fs: swap dev: /dev/sdb3
+Sensors:   System Temperatures: cpu: 42.5C mobo: N/A
+           Fan Speeds (in rpm): cpu: N/A
+Info:      Processes: 159 Uptime: 1:42 Memory: 730.9/7906.6MB Init: systemd
+           Client: Shell (bash) inxi: 2.3.27 
