@@ -26,3 +26,30 @@ Sensors:   System Temperatures: cpu: 42.5C mobo: N/A
            Fan Speeds (in rpm): cpu: N/A
 Info:      Processes: 159 Uptime: 1:42 Memory: 730.9/7906.6MB Init: systemd
            Client: Shell (bash) inxi: 2.3.27 
+
+DMI Decode:
+
+{
+    "baseboard-asset-tag": "Tag 12345",
+    "baseboard-manufacturer": "Notebook",
+    "baseboard-product-name": "N130BU",
+    "baseboard-serial-number": "Not Applicable",
+    "baseboard-version": "Not Applicable",
+    "bios-release-date": "07/14/2017",
+    "bios-vendor": "American Megatrends Inc.",
+    "bios-version": "1.05.06C-TEST",
+    "chassis-asset-tag": "No Asset Tag",
+    "chassis-manufacturer": "Notebook",
+    "chassis-serial-number": "None",
+    "chassis-type": "Notebook",
+    "chassis-version": "N/A",
+    "processor-family": "Core i7",
+    "processor-frequency": "3500 MHz",
+    "processor-manufacturer": "Intel(R) Corporation",
+    "processor-version": "Intel(R) Core(TM) i7-7500U CPU @ 2.70GHz",
+    "system-manufacturer": "Notebook",
+    "system-product-name": "N130BU",
+    "system-serial-number": "Not Applicable",
+    "system-uuid": "465BFA80-4B09-0000-0000-000000000000",
+    "system-version": "Not Applicable"
+}
